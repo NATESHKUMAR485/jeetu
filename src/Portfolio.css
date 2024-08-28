@@ -30,3 +30,45 @@
     line-height: 1.5;
   }
   
+  .education {
+    margin-top: 30px;
+    text-align: left;
+  }
+  
+  .education h2 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .education ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .education li {
+    font-size: 1.1rem;
+    color: #666;
+    margin-bottom: 10px;
+  }
+  
+  .social-links {
+    margin-top: 30px;
+    text-align: center;
+  }
+  
+  .social-links h2 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .social-links a {
+    font-size: 1.2rem;
+    color: #0073b1;
+    margin: 0 10px;
+    text-decoration: none;
+  }
+  
+  .social-links a:hover {
+    text-decoration: underline;
+  }
+  
